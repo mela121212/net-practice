@@ -40,15 +40,16 @@ This project focuses on studying the following critical networking topics:
 ### Reference Materials
 Here is a list of resources that provide additional information:
 - [TCP/IP and Subnetting Basics - Cisco](https://www.cisco.com/c/en/us/support/docs/ip/basics/13713-3.html)
-- [OSI Model Explained - Wikipedia](https://en.wikipedia.org/wiki/OSI_model)
-- [Introduction to Subnet Masks - Lifewire](https://www.lifewire.com/definition-of-subnet-mask-817998)
+1. [42 Curriculum Guide for Net Practice](https://42-cursus.gitbook.io/guide/4-rank-04/netpractice)
+2. [Medium Article: From Zero to Network Hero](https://medium.com/@mohamedamintarza/from-zero-to-network-hero-a-practical-guide-to-netpractice-1337-rabat-a2ffb614a928)
+3. [Youtube Playlist: Net Practice Networking Guide](https://www.youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C)
 - [Routers vs Switches - HP Networking](https://networking.hp.com/us/en/learn/network-basics-routers-switches.html)
 
 ### AI Usage
-The following elements of the project were supported by AI tools:
-- Drafting and refining the structure and content of this `README.md` file.
-- Generating detailed explanations for networking topics and the instructions for the training interface.
-- Gathering a curated list of references to provide additional learning material.
+AI was used to assist in the following aspects of this project:
+- Clarifying concepts related to subnet masks, TCP/IP addressing, and OSI layers.
+- Reviewing and refining the language used in the README file to ensure clarity and correctness.
+- Providing examples of networking references and structuring the document more effectively.
 
 ## Additional Information
 ### Example Configurations
