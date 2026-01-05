@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by mela121212.*
+*This project has been created as part of the 42 curriculum by carmelag.*
 
 # Net Practice
 
